@@ -1,0 +1,16 @@
+talker:
+  ros__parameters:
+    radius: 15
+    cond_green: [150, 200, 150] #[150,200,150]
+    cond_yellow: [255, 255, 150]
+    cond_red: [205,120,180]
+    crop_w_min: 192 
+    crop_w_max: 448
+    crop_h_min: 0
+    crop_h_max: 128
+    cam_device: 0
+    cam_brightness: 0
+    cam_saturation: 64 # 0-64
+    cam_contrast: 64 # 0-64
+    cam_wb: 500 # ?-6500
+
