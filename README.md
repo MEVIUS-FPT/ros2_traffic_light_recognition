@@ -23,7 +23,7 @@ This is a ROS2 package that includes HLS-based traffic light recognition circuit
 ```
 . install/setup.bash
 ```
-### ROS2-FPGA Node
+### ROS2-FPGA Node (Processing Traffic Light Recognition)
 ```
 ros2 run traffic_light_recognition_fpga_node fpga_node
 ```
