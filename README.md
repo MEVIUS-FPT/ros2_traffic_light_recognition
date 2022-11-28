@@ -1,2 +1,2 @@
-# ROS2-FPGA Node Package for Traffic Light Recognition
+# ROS2 Package for Traffic Light Recognition
 
